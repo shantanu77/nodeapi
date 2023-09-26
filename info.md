@@ -1,3 +1,5 @@
+## example of mermaid use
+```mermaid
 graph TD;
   subgraph Traffic Flow
     A[Internet Traffic]
@@ -23,6 +25,8 @@ graph TD;
 In this modified script, I added "(Encrypted)" labels to indicate that the traffic between the internet and the load balancer as well as between the Angular web application and the API server is encrypted. This visually represents that encryption is in place for these connections.
 
 
+
+```
 
 
 
